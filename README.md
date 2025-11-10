@@ -1,4 +1,5 @@
-## Hi there 👋
+## Compte créé par klan2624
+pour le cours SCI6201 de l'EBSI 👋
 
 <!--
 **Klan2624/Klan2624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
